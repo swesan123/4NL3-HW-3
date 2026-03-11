@@ -1,0 +1,4 @@
+# Word2Vec / gensim saved models
+*.bin
+*.bin.wv.vectors.npy
+*.bin.syn1neg.npy
